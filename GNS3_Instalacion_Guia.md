@@ -48,7 +48,7 @@
 5. Asegúrate de que el nombre de la VM coincida (`GNS3-VM`).
 6. Haz clic en **Test Settings**.
 
-![Preferencias de GNS3 VM](capturas/gns3_vm_config.png)
+![Preferencias de GNS3 VM](capturas/GNS3-3.png)
 
 ---
 
