@@ -35,7 +35,7 @@
    - RAM: mínimo 4 GB
    - Red: adaptador en modo **Bridge** o **Host-only**
 
-![Configuración de la VM en VMware](capturas/vmware_configuracion.png)
+![Configuración de la VM en VMware](capturas/GNS3-2.png)
 
 ---
 
