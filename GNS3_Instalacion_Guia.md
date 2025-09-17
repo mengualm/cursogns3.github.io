@@ -65,16 +65,3 @@
 Ya puedes importar imágenes como Cisco IOSv, IOU, etc. y comenzar tus laboratorios.
 
 ---
-
-## 📁 Estructura recomendada del repositorio
-
-```bash
-GNS3-Instalacion/
-├── README.md
-├── capturas/
-│   ├── gns3_instalador.png
-│   ├── vmware_configuracion.png
-│   ├── gns3_vm_config.png
-│   └── gns3_vm_conectado.png
-```
-
