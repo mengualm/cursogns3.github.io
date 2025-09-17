@@ -21,7 +21,7 @@
    - VPCS
    - Wireshark (opcional)
 
-![Instalador GNS3 con componentes seleccionados](capturas/gns3_instalador.png)
+![Instalador GNS3 con componentes seleccionados](capturas/GNS3-1.png)
 
 ---
 
